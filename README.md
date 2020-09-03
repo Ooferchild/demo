@@ -1,6 +1,7 @@
 # Demo Project README
 
-This is a simple README file
+This is a simple readme file
 
 ## Heading 2
-just some updates, on a branch
+I hope this isnt much of a problem
+
